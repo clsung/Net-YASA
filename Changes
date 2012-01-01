@@ -1,0 +1,13 @@
+Revision history for Net-YASA
+
+0.04    Jan 1, 2012
+	Happy New Year
+
+0.03    May 2, 2009
+        JSON::DWIW => JSON::Any
+
+0.02    May 7, 2007
+        JSON output supported.
+
+0.01    May 1st, 2007
+        First version, released on an unsuspecting world.
